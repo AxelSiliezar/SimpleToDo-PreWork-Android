@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/ZzrXp2h.gif' title='GIF walkthrough' width='' alt='GIF Walkthrough' />
+<img src='https://imgur.com/D6hudPm.gif' title='GIF walkthrough' width='' alt='GIF Walkthrough' />
 
 
 
